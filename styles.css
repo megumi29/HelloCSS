@@ -1,14 +1,24 @@
 body {
-    background-color: goldenrod;
+    background-color: rgb(109, 160, 219);
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    color: blueviolet;
+    color: rgb(101, 32, 165);
 }
 img{
-    border:5px solid black;
+    border: 5px solid rgb(117, 24, 105);
 }
+main{
+    border: 5px solid seagreen;
+}
+
 ul{
+    padding: 30px 0px 30px 15px;
     list-style: none;
-    border: 3px dotted navy;
+    border-style: ridge solid;
+    background-color: rgb(135, 206, 135);
+    margin-bottom: 50px;
+}
+p{
+    padding: 10px
 }
