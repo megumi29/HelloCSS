@@ -1,12 +1,16 @@
 body {
     background-color: rgb(109, 160, 219);
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 h1{
     color: rgb(101, 32, 165);
 }
 img{
     border: 5px solid rgb(117, 24, 105);
+}
+.main{
+    border-color: slateblue;
 }
 ul{
     padding: 30px 0px 30px 15px;
