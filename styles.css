@@ -8,10 +8,6 @@ h1{
 img{
     border: 5px solid rgb(117, 24, 105);
 }
-id main{
-    border: 5px solid seagreen;
-}
-
 ul{
     padding: 30px 0px 30px 15px;
     list-style: none;
@@ -20,5 +16,5 @@ ul{
     margin-bottom: 50px;
 }
 p{
-    padding: 10px
+    padding: 10px;
 }
