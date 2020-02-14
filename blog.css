@@ -1,0 +1,24 @@
+.post{
+    border: tomato solid 2px;
+    width: 20%;
+    padding: 10px;
+    text-align: center;
+    margin: 10px 20px 10px 15px;
+    background-color: tan
+}
+.float3,.float4{
+    float: right;
+}
+.float1,.float2{
+    float: left;
+}
+.clearfix{
+overflow: auto;
+}
+h2{
+    color: seagreen;
+    font-style: italic;
+}
+img{
+    width: 150px;
+}
